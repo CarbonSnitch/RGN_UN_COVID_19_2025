@@ -24,3 +24,4 @@ The world has recovered from the COVID-19 pandemic in many ways but have specifi
 
 ### Deliverables
 - See Final Presentation as pdf - [FINAL PRESENTATION](https://github.com/CarbonSnitch/RGN_UN_COVID_19_2025/blob/main/UN_DATASET/Sent%20to%20Client/UN_COVID-19%20STORYBOARD_RGN_2025.pdf)
+- Or as [Tableau Public](https://public.tableau.com/app/profile/ryan.nattrass/viz/Before_AfterCOVID_2015/COVID-19STORY?publish=yes) 
